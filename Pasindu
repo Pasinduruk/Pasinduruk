@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golden Swan Jataka</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        article {
+            background: #fff;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Golden Swan Jataka</h1>
+        </div>
+    </header>
+    <div class="container">
+        <article>
+            <h2>Introduction</h2>
+            <p>The Golden Swan Jataka is one of the tales from the Jataka collection, which recounts the previous lives of the Buddha. In this story, the Buddha is born as a golden swan in a past life, and his tale serves as a moral lesson about virtue and selflessness.</p>
+            
+            <h2>The Story</h2>
+            <p>Once upon a time, a beautiful golden swan lived in a peaceful lake. The swan was known for its remarkable beauty and wisdom. It was loved by all the creatures of the forest and revered for its kind nature.</p>
+            <p>One day, a hunter captured the swan and took it to the king's palace. The king was fascinated by the golden swan and wanted to keep it as a pet. However, the swan, while in captivity, continued to display its noble character and wisdom, even in the face of adversity.</p>
+            <p>Despite the king's initial admiration, the golden swan was eventually set free. The swan’s story spread far and wide, teaching everyone the values of compassion, freedom, and the importance of remaining true to one’s virtues.</p>
+            
+            <h2>Moral of the Story</h2>
+            <p>The Golden Swan Jataka teaches us about the significance of maintaining one's integrity and compassion, regardless of circumstances. It highlights how virtue and wisdom can inspire others and how true freedom comes from living a life of righteousness.</p>
+        </article>
+    </div>
+</body>
+</html>
+
